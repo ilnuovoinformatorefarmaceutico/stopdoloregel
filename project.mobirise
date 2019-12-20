@@ -39,15 +39,22 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Rubik', sans-serif",
+        "name": "Rubik",
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
+      }
+    ],
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-85157698-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-85157698-3');\r\n</script>\r\n\r\n\r\n",
     "сanonical-url": "",
     "uniqCompNum": 17,
-    "versionPublish": "4.9.5",
+    "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
-    "modified": "2019-03-11T17:42:01.000Z"
+    "modified": "2019-03-11T17:42:01.000Z",
+    "canonical-url": ""
   },
   "pages": {
     "index.html": {
